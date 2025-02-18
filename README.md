@@ -24,15 +24,15 @@
 
 ## 📊 Meus Status no GitHub
 
-[![GitHub Streak](https://github-readme-streak-stats-six-ruddy.vercel.app?user=kecasan&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kecasan&show_icons=true&theme=dracula)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kecasan&langs_count=8&layout=compact&hide_progress=true&theme=dracula)
+[![GitHub Streak](https://github-readme-streak-stats-six-ruddy.vercel.app?user=Ericasantn&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ericasant&show_icons=true&theme=dracula)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericasant&langs_count=8&layout=compact&hide_progress=true&theme=dracula)
 
 
 ## 🚀 Meus Projetos
 
 <div style="text-align: center;">
-  <a href="https://github.com/kecasan/Tudo" target="_blank">
+  <a href="https://github.com/Ericasant/Tudo" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
@@ -43,4 +43,4 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture><br><br>
 
-![](https://visitcount.itsvg.in/api?id=kecasan&icon=0&color=0)
+![](https://visitcount.itsvg.in/api?id=Ericasant&icon=0&color=0)
